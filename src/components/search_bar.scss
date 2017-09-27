@@ -1,0 +1,20 @@
+.SearchBar{
+    
+    display: flex;
+    margin-bottom: 1em;
+    margin: 1em;
+    font-size: 2em;
+    label {
+        width: 100%;
+        
+    }
+    input {
+        padding: 1em;
+        width: 100%;
+        background: #E3E3E3;
+        box-shadow: none;
+        outline: none;
+        border: none;
+        font-size: .8em;
+    }
+}

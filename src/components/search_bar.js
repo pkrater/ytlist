@@ -9,7 +9,7 @@ class SearchBar extends Component {
   }
   render() {
     return (
-      <div>
+      <div className="SearchBar">
         <label>
           <input
             onChange={event => this.onInputChange(event.target.value)}
