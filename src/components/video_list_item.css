@@ -1,0 +1,13 @@
+.VideoListItem {
+  display: flex;
+  margin-bottom: 1em;
+}
+
+.VideoListItem:hover{
+  background: #ccc;
+  cursor: pointer;
+}
+
+.VideoListItem-img {
+  margin-right: 1em;
+}
