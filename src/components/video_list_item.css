@@ -11,3 +11,10 @@
 .VideoListItem-img {
   margin-right: 1em;
 }
+
+.VideoDetail{
+  display: flex;
+  margin-bottom: 1em;
+  width: 100%;
+  
+}
