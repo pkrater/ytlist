@@ -1,4 +1,5 @@
 import React from 'react';
+import './video_list.css';
 import VideoListItem from './video_list_item';
 
 
