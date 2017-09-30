@@ -17,7 +17,6 @@ class SearchBar extends Component {
           />
           {this.props.label}
         </label>
-        <p></p>
       </div>
     );
   }

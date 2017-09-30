@@ -15,7 +15,6 @@ const VideoList = (props) => {
         )
      })
     
-
     return(
       <ul className="VideoList">
        { VideoItems }

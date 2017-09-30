@@ -10,11 +10,7 @@
 
 .VideoListItem-img {
   margin-right: 1em;
-}
-
-.VideoDetail{
-  display: flex;
-  margin-bottom: 1em;
-  width: 100%;
-  
+  width: 120px;
+  max-height: 90px;
+  height: auto;
 }

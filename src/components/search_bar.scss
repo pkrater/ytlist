@@ -1,12 +1,11 @@
 .SearchBar{
     
     display: flex;
-    margin-bottom: 1em;
     margin: 1em;
     font-size: 2em;
     label {
-        width: 100%;
-        
+        margin: 1em;
+        flex: 1;
     }
     input {
         padding: 1em;
@@ -16,5 +15,6 @@
         outline: none;
         border: none;
         font-size: .8em;
+        margin: -1em;
     }
 }
